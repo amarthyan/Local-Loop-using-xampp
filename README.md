@@ -1,3 +1,22 @@
+
+
+
+HOW TO DOWNLOAD AND START THE PROJECT 
+-> CLONE OR DOWNLOAD THE PROJECT ( IF DOWNLOADED UN ZIP THE FILE)
+-> Download XAMPP app (Start the SQL and APACHE SERVER)
+-> Past the code in htdocs floder in XAMPP floder
+-> Just click run.bat file 
+
+    THE APPLICATOON IS STARTED SUCCESSFULLY
+YOU CAN GOTO PHP ADMINE PAGE FROM THE TERMINAL BY PRESSING  "P" IN THE KEYBOARD
+
+
+
+
+
+
+
+
 # LocalLoop — Hyperlocal Community Platform
 
 > **Tagline:** Your Community. One Platform.
