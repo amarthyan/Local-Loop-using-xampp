@@ -1,0 +1,23 @@
+# Operating System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+error_log
+
+# User Uploads (ignore user content while keeping folder structure)
+/uploads/*
+!/uploads/*/
+!/uploads/**/.gitkeep
+
+# Environment & local overrides
+.env
+*.local
