@@ -23,3 +23,9 @@ error_log
 # Environment & local overrides
 .env
 *.local
+
+# Temporary archives & test dumps
+*.zip
+*.tar.gz
+*.sql.bak
+
