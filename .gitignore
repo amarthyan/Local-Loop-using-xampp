@@ -2,6 +2,8 @@
 .DS_Store
 Thumbs.db
 desktop.ini
+*.tmp
+*.bak
 
 # IDE & Editor files
 .vscode/
@@ -9,7 +11,7 @@ desktop.ini
 *.sublime-project
 *.sublime-workspace
 
-# Logs
+# Logs and runtime caches
 *.log
 error_log
 
